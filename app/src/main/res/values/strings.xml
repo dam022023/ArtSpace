@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="texto_mona_lisa">La Gioconda</string>
+    <string name="texto_grito">El Grito</string>
+    <string name="texto_beso">El Beso</string>
+    <string name="texto_saturno">Saturno devorando hijo</string>
+    <string name="texto_meninas">Las Meninas</string>
+    <string name="texto_joven_perla">La joven de la perla</string>
+    <string name="leonardo">Leonardo da Vinci (1503)</string>
+    <string name="edvard">Edvard Munch (1893)</string>
+    <string name="gustav">Gustav Klimt (1907–1908)</string>
+    <string name="rubens">Pedro Pablo Rubens (1823)</string>
+    <string name="velazquez">Diego Velázquez (1656)</string>
+    <string name="johannes">Johannes Vermeer (1665)</string>
+</resources>
